@@ -1,8 +1,8 @@
-<project>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>nl.flotsam</groupId>
     <artifactId>xeger</artifactId>
-    <version>1.0.0-SNAPSHOT</version>
+    <version>1.0.0-lorislab-1</version>
     <name>Xeger</name>
     <description>
         Small library, producing random text matching arbitrary regular expressions.
@@ -172,7 +172,7 @@
         <connection>scm:git:git@github.com:lorislab/xeger.git</connection>
         <developerConnection>scm:git:git@github.com:lorislab/xeger.git</developerConnection>
         <url>http://github.com/lorislab/xeger</url>
-        <tag>HEAD</tag>
+        <tag>1.0.0-lorislab-1</tag>
     </scm>    
     <distributionManagement>
         <repository>
